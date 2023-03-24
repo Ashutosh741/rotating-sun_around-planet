@@ -46,6 +46,10 @@
  /* background-color: b; */
 }
 
+.galaxy {
+ height: 100vh;
+}
+
 .image {
  position: absolute;
  top: 50%;
